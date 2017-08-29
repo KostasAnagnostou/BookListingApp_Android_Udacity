@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <!-- Strings for the Search Text -->
+    <string name="search_hint">Type the Book or the Subject here &#8230;</string>
+    <string name="search_button">Search</string>
+    <string name="search_info">Search any Book or a subject of a Book and find the right one from Google Books!!!</string>
+
+    <!-- Strings for the Book Details -->
+    <string name="author_book">Authors:</string>
+    <string name="publish_date">Published: </string>
+
+    <string name="no_internet">No Internet Connection - Try Again Later</string>
+    <string name="no_books">No Books Found&#8230; Search another Book or Subject</string>
+    <string name="bad_response">An Error has occurred - try again</string>
+
+
+</resources>
